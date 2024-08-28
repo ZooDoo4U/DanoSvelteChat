@@ -4,9 +4,9 @@
     
     import { addNewMessage } from '$lib/messageRoutines';
     
-    onMount(() => {
-      addNewMessage('Test message 1');
-    })
+    // onMount(() => {
+    //   addNewMessage('Test message 1');
+    // })
     
 </script> 
 
